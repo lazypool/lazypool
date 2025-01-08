@@ -1,36 +1,21 @@
-## Hi there! 👋
+<div style="display: flex; justify-content: space-between;">
+<div align="center"><img alt="photo" src="./photo.png" width="500" title="me"><h6>秋水时至，百川塞河！ —— 《庄子·秋水》</h6></div>
+<div align="center">
 
-Hi, everyone! This is LazyPool, a cute, furry dragon from sea, a little chatty and anthomaniac.
+[![LazyPool's GitHub stats](https://github-readme-stats.vercel.app/api?username=lazypool&count_private=true&show_icons=true)](https://github.com/lazypool)
 
-![](banner.png)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazypool)](https://github.com/lazypool)
+<!-- hide=makefile,html,cmake,vue,css,objective-c,assembly -->
+</div>
+</div>
 
-I came to land because I hated seafood and I wasn't good at swimming.
-
-I have been trying to learn the manners of the land so long, and most like to play with the small animals.
-
-### Skills! 🌱
-
-Have a similar understanding of most programming languages: C/C++, Python, Golang, Java, Nodejs.
-
-Sometimes can solve really complicated math problems, but only sometimes.
-
-Can occasionally propose some strange and interesting ideas. Imagination precedes action.
-
-### Hobbies! 🔭
-
-`Animal!`. Like almost all mammals except primates. Would must stop to have a looks when encounter a puppy or kitty.
-
-`Computer!`. At the age of 20, I switched to ArchLinux and created my own windows manager, text editor, and all sorts of other messy stuff.
-
-`AI!`. I like deep learning and neural networks, especially in the field of NLP. I've read a lot of articles and run my own projects.
-
-`Martial!`. I can't resist costume dramas and martial arts movies. Sometimes I imagine myself doing chivalrous deeds, wandering around the world.
-
-`Chess!`. Chinese chess is almost the game I play the most, in wich I have a certain crazy confidence.
-
-### Contact Me! 📫
-
-![](photo.png)
-
-- QQ: 3416382833
-- Email: lazypool@proton.me
+<div align="center">
+  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
